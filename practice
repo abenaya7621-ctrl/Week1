@@ -1,5 +1,5 @@
 
-package week1;
+Q1.package week1;
 
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ OUTPUT:
 8
 Even
 
-package week1;
+Q2.package week1;
 
 import java.util.Scanner;
 
@@ -44,7 +44,7 @@ package week1;
 
 import java.util.Scanner;
 
-public class div {
+Q3.public class div {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -57,6 +57,7 @@ public class div {
 OUTPUT:
 15
 Yes
+
 Q4. Convert Days into Years, Months, Days
 import java.util.Scanner;
 
@@ -110,7 +111,7 @@ OUTPUT:
 4 9
 MIN:4
 MAX:9
-######################################################
+
 Q7. Max of 3 Numbers 
 import java.util.Scanner;
 
@@ -132,7 +133,7 @@ public class max3num {
 OUTPUT:
 45 23 90
 MAX 90
-##########################################################
+
 Q8.Positive, Negative or Zero 
  import java.util.Scanner;
 
@@ -161,7 +162,7 @@ public class Posnegzero {
   NEGATIVE
   0
   ZERO
-  ###################################################
+  
   Q9. Customer Grouping
   import java.util.Scanner;
 
@@ -272,6 +273,7 @@ Input :
 Output :
 Isosceles Triangle 
 */
+
 package week1;
 import java.util.Scanner;
 public class TriangleShape {
